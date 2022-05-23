@@ -31,7 +31,7 @@ const App = ({ Component, pageProps }) => {
   const router = useRouter();
   useEffect(() => {
     console.log(
-      "%c Animex.ninja! ",
+      "%c a2zAni.me! ",
       "background: #222; color:#4198db ;font-size:50px"
     );
     localStorage.removeItem("persist:root");
@@ -49,7 +49,7 @@ const App = ({ Component, pageProps }) => {
         <link
           rel="apple-touch-icon"
           sizes="57x57"
-          href="/favico/apple-icon-57x57.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
@@ -59,66 +59,66 @@ const App = ({ Component, pageProps }) => {
         <link
           rel="apple-touch-icon"
           sizes="72x72"
-          href="/favico/apple-icon-72x72.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="76x76"
-          href="/favico/apple-icon-76x76.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="114x114"
-          href="/favico/apple-icon-114x114.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="120x120"
-          href="/favico/apple-icon-120x120.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="144x144"
-          href="/favico/apple-icon-144x144.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="152x152"
-          href="/favico/apple-icon-152x152.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/favico/apple-icon-180x180.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="192x192"
-          href="/favico/android-icon-192x192.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/favico/favicon-32x32.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="96x96"
-          href="/favico/favicon-96x96.png"
+          href="/favico/favicon.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/favico/favicon-16x16.png"
+          href="/favico/favicon.png"
         />
         <meta name="msapplication-TileColor" content="#ffffff" />
         <meta
           name="msapplication-TileImage"
-          content="/favico/ms-icon-144x144.png"
+          content="/favico/"
         />
         <meta name="theme-color" content="#1a1c20" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
